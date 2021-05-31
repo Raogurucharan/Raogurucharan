@@ -3,7 +3,7 @@ I am currently pusuing a bachelors in computer science at Lovely Professional Un
 
 I enjoy creating things and am an advocate of lifelong learning. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gurucharan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gurucharan-rao)](www.linkedin.com/in/gurucharan-rao)
+[![Linkedin Badge](https://img.shields.io/badge/-Gurucharan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurucharan-rao/)](https://www.linkedin.com/in/gurucharan-rao/)
  [![Gmail Badge](https://img.shields.io/badge/-raoguru2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raoguru2001@gmail.com@gmail.com)](mailto:raoguru2001@gmail.com) 
 - 😄 Pronouns: He/Him/Himself
 - 🌱 I’m currently learning: node.js
