@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Gurucharan Rao</h2>
+I am currently pusuing a bachelors in computer science at Lovely Professional University. 
 
-<!--
-**Raogurucharan/Raogurucharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy creating things and am an advocate of lifelong learning. Feel free to connect with me here:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Gurucharan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gurucharan-rao
+)](www.linkedin.com/in/gurucharan-rao)
+ [![Gmail Badge](https://img.shields.io/badge/-raoguru2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raoguru2001@gmail.com@gmail.com)](mailto:raoguru2001@gmail.com) 
+- 😄 Pronouns: He/Him/Himself
+- 🌱 I’m currently learning: node.js
+- 💻 Currently improving: my python skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Raogurucharan&count_private=true&show_icons=true&include_all_commits=true&hide=stars,,prs&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raogurucharan&layout=compact&theme=graywhite)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Raogurucharan.Raogurucharan)
