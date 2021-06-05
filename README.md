@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Gurucharan Rao</h2>
-I am currently pusuing a bachelors in computer science at Lovely Professional University. 
+I am currently pursuing a bachelors in computer science at Lovely Professional University. 
 
 I enjoy creating things and am an advocate of lifelong learning. Feel free to connect with me here:
 
