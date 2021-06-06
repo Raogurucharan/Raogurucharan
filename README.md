@@ -5,7 +5,7 @@ I enjoy creating things and am an advocate of lifelong learning. Feel free to co
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gurucharan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurucharan-rao/)](https://www.linkedin.com/in/gurucharan-rao/)
  [![Gmail Badge](https://img.shields.io/badge/-raoguru2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raoguru2001@gmail.com@gmail.com)](mailto:raoguru2001@gmail.com) 
- <img align="centre" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="310" height="230" />
 - 😄 Pronouns: He/Him/Himself
 - 🌱 I’m currently learning: node.js
 - 💻 Currently improving: my python skills
