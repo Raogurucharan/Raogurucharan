@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Gurucharan Rao</h2>
-I am currently pursuing a bachelors in computer science at Lovely Professional University. 
- <img align="centre" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" height="220" />
+ <img align="centre" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" height="240" />
+ I am currently pursuing a bachelors in computer science at Lovely Professional University. 
 I enjoy creating things and am an advocate of lifelong learning. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gurucharan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurucharan-rao/)](https://www.linkedin.com/in/gurucharan-rao/)
