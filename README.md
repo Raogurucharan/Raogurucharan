@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning: node.js
 - 💻 Currently improving: my python skills
 
+## 👨‍💻 *Tech Stack I am Familiar With*:
+
 <p align="center">
 <br/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="margin:2px;"/>
