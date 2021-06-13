@@ -11,7 +11,6 @@
 - 💻 Currently improving: my python skills
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Raogurucharan&count_private=true&show_icons=true&include_all_commits=true&hide=stars,,prs&theme=buefy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raogurucharan&layout=compact&theme=graywhite)
 
 
