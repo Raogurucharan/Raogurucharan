@@ -3,8 +3,8 @@
 - I am currently pursuing a bachelors in computer science at Lovely Professional University. 
 - I enjoy creating things and am an advocate of lifelong learning. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gurucharan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurucharan-rao/)](https://www.linkedin.com/in/gurucharan-rao/)
- [![Gmail Badge](https://img.shields.io/badge/-raoguru2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raoguru2001@gmail.com@gmail.com)](mailto:raoguru2001@gmail.com) 
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:raoguru2001@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gurucharan-rao/)
 
 - 😄 Pronouns: He/Him/Himself
 - 🌱 I’m currently learning: node.js
@@ -29,4 +29,10 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Raogurucharan&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Raogurucharan&theme=dark" width="48%" >
+/*
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Raogurucharan&count_private=true&show_icons=true&include_all_commits=true&hide=stars,,prs&theme=buefy)
+*/
+/*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raogurucharan&layout=compact&theme=graywhite)
 
+*/
