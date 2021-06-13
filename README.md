@@ -25,8 +25,8 @@
 <br/>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Raogurucharan&count_private=true&show_icons=true&include_all_commits=true&hide=stars,,prs&theme=buefy)
+## 🏆 *Github Status*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raogurucharan&layout=compact&theme=graywhite)
-
+<img  src="https://github-readme-stats.vercel.app/api?username=Raogurucharan&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Raogurucharan&theme=dark" width="48%" >
 
