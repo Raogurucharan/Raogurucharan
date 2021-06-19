@@ -29,4 +29,4 @@
 ## 🏆 *Github Status*
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Raogurucharan&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="http://github-readme-streak-stats.herokuapp.com?user=Raogurucharan&theme=neon-dark&hide_border=true" width="48%" >
+<img  src="http://github-readme-streak-stats.herokuapp.com?user=Raogurucharan&theme=nightowl&hide_border=true" width="48%" >
