@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Gurucharan Rao</h2>
  
 - I am currently pursuing a bachelors in computer science at Lovely Professional University. 
-- 😄 Pronouns: He/Him/Himself
 - 🌱 I’m currently learning: node.js
 - 💻 Currently improving: my python skills
 - I enjoy creating things and am an advocate of lifelong learning. Feel free to connect with me here:
