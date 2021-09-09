@@ -3,7 +3,7 @@
 - I am currently pursuing a bachelors in computer science at Lovely Professional University. 
 - 🌱 I’m currently learning: node.js
 - 💻 Currently improving: my python skills
-- I enjoy creating things and am an advocate of lifelong learning. Feel free to connect here:
+- I enjoy creating things and am an advocate of lifelong learning. Feel free to connect here 👇:
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:raoguru2001@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gurucharan-rao/)
