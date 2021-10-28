@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Gurucharan Rao</h2>
 
-<h3 align="center">git commit -m " I'm a Software Engineering Intern at AsknBid "</h3>
-
 - I am currently pursuing a bachelors in computer science at Lovely Professional University. 
 - 🌱 I’m currently learning: node.js
 - 💻 Currently improving: my python skills
