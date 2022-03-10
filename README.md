@@ -1,9 +1,14 @@
 <h2 align="center">Hi 👋, I'm Gurucharan Rao</h2>
 
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Software+Developer;Backend+Enthusiast;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
 
 - I am currently pursuing a bachelors in computer science at Lovely Professional University. 
-- 🌱 I’m currently learning: node.js
-- 💻 Currently improving: my python skills
+- 🌱 I’m currently learning: Quarkus
+- 💻 Currently improving: Java skills
 - I enjoy creating things and am an advocate of lifelong learning. Feel free to connect here 👇:
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:raoguru2001@gmail.com)
