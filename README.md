@@ -32,7 +32,7 @@
 
 ## 📈 *Github Activity graph*
 
-![Gurucharan's github activity graph](https://activity-graph.herokuapp.com/graph?username=raogurucharan&theme=dracula)
+![Gurucharan's github activity graph](https://activity-graph.herokuapp.com/graph?username=raogurucharan&theme=material-palenight&area=true)
 
 
 ## 🏆 *Github Status*
