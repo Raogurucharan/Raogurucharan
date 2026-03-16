@@ -5,11 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Software+Developer;Backend+Enthusiast;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-- I am currently pursuing a bachelors in computer science at Lovely Professional University (2018-2022). 
-- 🌱 I’m currently learning: Quarkus
-- 💻 Currently improving: Java skills
-- I enjoy creating things and am an advocate of lifelong learning. Feel free to connect here 👇:
-
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:raoguru2001@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/gurucharan-rao/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://myportfolio-79841.web.app)
